@@ -1,7 +1,7 @@
 
-## 其他技术仓库列表
+## 其他仓库列表
 
-- [python爬虫](https://github.com/ZGG2016/python-crawler-tutorial-itcast)
+- [python爬虫教程](https://github.com/ZGG2016/python-crawler-tutorial-itcast)
 
 - [剑指offer题目](https://github.com/ZGG2016/jianzhi-offer)
 
