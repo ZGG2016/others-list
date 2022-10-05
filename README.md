@@ -9,6 +9,6 @@
 
 - [剑指offer题目](https://github.com/ZGG2016/jianzhi-offer)
 
-- [牛客sql题目](https://github.com/ZGG2016/sql-practice-niuke)
+- [sql题目](https://github.com/ZGG2016/sql-practice)
 
 - [axure案例](https://github.com/ZGG2016/axurecase)
